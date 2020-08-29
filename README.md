@@ -3,7 +3,7 @@
 	<img
 		height="80"
 		alt="project-logo"
-		src="assets/images/project/law-firm-logo.png">
+		src="https://krisoncode.s3.amazonaws.com/project-assets/hotel/hotel-logo.png">
 </div>
 <hr>
 <div align="center">
