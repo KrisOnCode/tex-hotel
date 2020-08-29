@@ -1,17 +1,12 @@
 <div align="center">
-	<h1> Legal Services Website Template</h1>
-	<img
-		height="80"
-		alt="project-logo"
-		src="https://krisoncode.s3.amazonaws.com/project-assets/hotel/hotel-logo.png">
+	<img src="https://krisoncode.s3.amazonaws.com/brand-assets/logobanner.png" height="350" alt="project-logo">
 </div>
+
 <hr>
+
 <div align="center">
-	<h5>by</h5>
-	<img
-		height="100"
-		alt="krisoncodebanner"
-		src="https://krisoncode.s3.amazonaws.com/brand-assets/logobanner.png">
+	<h1> Legal Services Website Template</h1>
+	<img src="https://krisoncode.s3.amazonaws.com/project-assets/hotel/hotel-logo.png" height="125" alt="project-logo">	
 </div>
 
 ## Project Description
@@ -21,25 +16,26 @@ Simple hotel landing site with Landing, About, Features, and Contact pages. The 
 	<strong>
         <a href="https://blissful-lamarr-fda38b.netlify.app/">Project Demo</a>
 		<br>
-		<a href="https://krisoncode.com/">KrisOnCode</a>
+	<a href="https://krisoncode.com/">KrisOnCode</a>
 	</strong>
 </p>
 
 
 ## Screenshots
 
-
-<div align="center">
-	<h2>
-	<img
-		height="350"
-		alt=""
-		src="https://krisoncode.s3.amazonaws.com/project-assets/hotel/hotel-screenshot-lead.png">
-	</h2>
-</div>
-
-
-
+<table>
+  <tr>
+    <td>Landing Page</td>
+    <td>About Page</td>
+     <td>Contact Page</td>
+  </tr>
+  <tr>
+     <td valign="top"><img src="https://krisoncode.s3.amazonaws.com/project-assets/hotel/hotel-screenshot-lead.png" height="200" alt="screenshot2"></td>
+     <td valign="top"><img src="https://krisoncode.s3.amazonaws.com/project-assets/hotel/hotel-screenshot-2.png" height="200" alt="screenshot2"></td>
+     <td valign="top"><img src="https://krisoncode.s3.amazonaws.com/project-assets/hotel/hotel-screenshot-3.png" height="200" alt="screenshot3"></td>
+  </tr>
+ </table>
+	
 ## Tech/framework used
 
 <b>Built with</b>
