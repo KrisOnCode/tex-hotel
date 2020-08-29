@@ -11,7 +11,7 @@
 	<img
 		height="100"
 		alt="krisoncodebanner"
-		src="https://krisoncode.s3.amazonaws.com/logobanner.png">
+		src="https://krisoncode.s3.amazonaws.com/brand-assets/logobanner.png">
 </div>
 
 ## Project Description
@@ -34,7 +34,7 @@ Simple hotel landing site with Landing, About, Features, and Contact pages. The 
 	<img
 		height="350"
 		alt=""
-		src="s3://krisoncode/project-assets/hotel/hotel-screenshot-lead.png">
+		src="https://krisoncode.s3.amazonaws.com/project-assets/hotel/hotel-screenshot-lead.png">
 	</h2>
 </div>
 
