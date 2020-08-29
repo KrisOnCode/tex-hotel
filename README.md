@@ -1,27 +1,49 @@
 <div align="center">
-    <img src = https://krisoncode.s3.amazonaws.com/logo.png alt="Turbulentos Labs Learn Code" height="200px">
-  <h1>Turbulentos Labs Learn Code</h1>
-  <h4>Your Project Title</h4>
-<div>
+	<h1> Legal Services Website Template</h1>
+	<img
+		height="80"
+		alt="project-logo"
+		src="assets/images/project/law-firm-logo.png">
+</div>
+<hr>
+<div align="center">
+	<h5>by</h5>
+	<img
+		height="100"
+		alt="krisoncodebanner"
+		src="https://krisoncode.s3.amazonaws.com/logobanner.png">
+</div>
 
+## Project Description
+Simple hotel landing site with Landing, About, Features, and Contact pages. The project was built using HTML5, CSS3 and Font-Awesome5.
 
-# Big Tex Hotel Website
-#### A hotel landing page project
+<p align="center">
+	<strong>
+        <a href="https://blissful-lamarr-fda38b.netlify.app/">Project Demo</a>
+		<br>
+		<a href="https://krisoncode.com/">KrisOnCode</a>
+	</strong>
+</p>
 
 
 ## Screenshots
 
-![logo (]./kris-logo-darken.png)
+<div align="center">
+	<h2>
+	<img
+		height="350"
+		alt=""
+		src="assets/images/project/hotel-project-lead.png">
+	</h2>
+</div>
 
-**Built with**
-HTML and CSS
+## Tech/framework used
 
-## Features
-Landing Page with Showcase and Features
-About page with testimonials
-Contact page
+<b>Built with</b>
+<p>Html5 and Css3</p>
+
+
 
 ## License
-A short snippet describing the license (MIT, Apache etc)
 
-MIT © Kris Paschal(2020)
+MIT © [Kris Paschal] 2020
