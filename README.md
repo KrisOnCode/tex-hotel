@@ -28,12 +28,37 @@ Simple hotel landing site with Landing, About, Features, and Contact pages. The 
 
 ## Screenshots
 
+#### Landing Page
+
 <div align="center">
 	<h2>
 	<img
 		height="350"
 		alt=""
-		src="assets/images/project/hotel-project-lead.png">
+		src="s3://krisoncode/project-assets/hotel/hotel-screenshot-lead.png">
+	</h2>
+</div>
+
+
+#### About Page
+
+<div align="center">
+	<h2>
+	<img
+		height="350"
+		alt=""
+		src="s3://krisoncode/project-assets/hotel/hotel-screenshot-2.png">
+	</h2>
+</div>
+
+#### Contact Page
+
+<div align="center">
+	<h2>
+	<img
+		height="350"
+		alt=""
+		src="s3://krisoncode/project-assets/hotel/hotel-screenshot-3.png">
 	</h2>
 </div>
 
